@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+#navbar {
+    height: 60px;
+    background-color: #0ceded;
+}
+a {
+    margin-right: 200px;
+    padding: 10px;
+}
+div {
+    text-align: center;
+    padding-top: 20px;
+}    
